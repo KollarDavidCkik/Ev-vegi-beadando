@@ -1,9 +1,9 @@
 Index.html
 A téma (bemutatása, fontos tudni valók)
 Szellemek agreszívitásának (bemutatása)
-Insirpáció (bemutatása, maga a játék)
 Veszélyek (felhozatala, leírása)
 Különböző teoriák (bemutatása, részletezése)
+Insirpáció (bemutatása, maga a játék)
 A játék felépülése, bemutatása (több játék is köthető ehhez)
 A játék szellemei (bemutatása pár mondatban, majd egy külön weblapon részletesebben)
 
@@ -20,13 +20,6 @@ A játék elátkozott cuccai, és képességei
 
 szellemek leírása.html
 részeletesebben írjuk le a szellemeket, vagy táblázatba foglaljuk
-
-
-
-
-
-
-
 
 eszközök.html
 EMF-reader
