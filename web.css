@@ -1,4 +1,18 @@
 body{
     background-color: slategrey;
     color: bisque ;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+
+h4{
+margin: 15px;
+}
+p{
+    margin: 10px;
 }
