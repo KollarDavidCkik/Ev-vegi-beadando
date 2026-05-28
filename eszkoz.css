@@ -5,6 +5,7 @@ body{
 }
 table{
     border: 1px solid black;
+
 }
 img{
     width: 100%;
@@ -12,4 +13,7 @@ img{
 }
 figcaption{
     text-align: center;
+}
+td{
+    border: 1px solid black;
 }
