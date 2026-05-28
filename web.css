@@ -16,3 +16,8 @@ margin: 15px;
 p{
     margin: 10px;
 }
+h2, h1{
+    box-shadow: 5px 5px 5px white;
+    text-shadow: 5px 5px 5px black;
+}
+
