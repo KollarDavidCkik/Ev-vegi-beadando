@@ -1,10 +1,15 @@
 body{
     background-color: slategrey;
     color: blanchedalmond;
+    margin: 10px;
 }
 table{
     border: 1px solid black;
 }
 img{
-    width: 15%;
+    width: 100%;
+    padding: 10px;
+}
+figcaption{
+    text-align: center;
 }
