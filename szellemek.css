@@ -1,0 +1,10 @@
+body{
+    background-color: slategrey;
+    color: bisque;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+}
+.felkover{
+    font-weight: bolder;
+    color: black;
+}
