@@ -11,15 +11,13 @@ A játék szellemei (bemutatása pár mondatban, majd egy külön weblapon rész
 játék.html
 A játék felépülése, bemutatása (több játék is köthető ehhez)
 A játék szellemei (bemutatása pár mondatban, majd egy külön weblapon részletesebben)
-Szellemek agreszívitásának (bemutatása)
 A játék eszközei (bemutatása, felsorolása, azok kivételével amik az utolsó részen vannak)
 A játék során előforduló eventek (karácsony, halloween, húsvét)
 Pályák (bemutatása, háttere le írása)
-A mostani event leírása
-A játék elátkozott cuccai, és képességei
 
 szellemek leírása.html
 részeletesebben írjuk le a szellemeket, vagy táblázatba foglaljuk
+Szellemek agreszívitásának (bemutatása)
 
 eszközök.html
 EMF-reader

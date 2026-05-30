@@ -1,4 +1,9 @@
 body{
     background-color: slategrey;
     color: cornsilk;
+    font-size: 20px;
+    margin: 10px;
 }
+img{
+    width: 100%;
+} 
