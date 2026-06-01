@@ -8,3 +8,11 @@ body{
     font-weight: bolder;
     color: black;
 }
+h2 {
+    color: crimson;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    text-align: justify;
+}
