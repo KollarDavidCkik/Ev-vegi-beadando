@@ -6,9 +6,8 @@ body{
 }
 .felkover{
     font-weight: bolder;
-    color: black;
 }
-h2 {
+h2{
     color: crimson;
     text-align: center;
 }
@@ -19,4 +18,8 @@ p {
 table, td{
     border: 1px solid black;
     border-collapse: collapse;
+}
+.felkover2{
+    font-weight: bolder;
+    color: black;
 }
