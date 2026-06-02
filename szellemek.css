@@ -1,5 +1,5 @@
 body{
-    background-color: slategrey;
+    background-color: slateblue;
     color: bisque;
     font-family: Arial, sans-serif;
     margin: 10px;
@@ -18,8 +18,13 @@ p {
 table, td{
     border: 1px solid black;
     border-collapse: collapse;
+    margin: auto;
+    text-align: center;
 }
 .felkover2{
     font-weight: bolder;
     color: black;
+}
+h1{
+    text-align: center;
 }
